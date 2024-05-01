@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Ayham , A Computer science student.
+- 👋 Hi, I’m Ayham , A computer science student.
 - 👀  I’m interested in Full-Stack development.
 - 📫Reach Me @ ayham.ahed.1@gmail.com
